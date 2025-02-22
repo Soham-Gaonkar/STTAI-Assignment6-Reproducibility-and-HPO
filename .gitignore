@@ -1,7 +1,8 @@
 
-# ignore models folder and wandb folder
+# ignore models folder and wandb folder and data folder
 models/
 wandb/
+data/
 
 # ignore all png files and pth files
 *.png
