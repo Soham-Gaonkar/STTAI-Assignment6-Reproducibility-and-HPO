@@ -1,0 +1,23 @@
+
+# ignore models folder and wandb folder
+models/
+wandb/
+
+# ignore all png files and pth files
+*.png
+*.pth
+
+# ignore all pycache folders
+__pycache__/
+
+# ignore all ipynb checkpoints
+.ipynb_checkpoints/
+
+# ignore all csv files
+*.csv
+
+# ignore all log files
+*.log
+
+# ignore all pyc files
+*.pyc
