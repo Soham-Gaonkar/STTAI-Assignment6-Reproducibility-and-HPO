@@ -5,7 +5,6 @@ wandb/
 data/
 
 # ignore all png files and pth files
-*.png
 *.pth
 
 # ignore all pycache folders
