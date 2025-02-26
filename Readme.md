@@ -1,16 +1,38 @@
-![alt text](images/image-8.png)
+# STT Lab 06 - Weights & Biases and Autogluon
 
-![alt text](images/image-9.png)
+## Group 7
 
-![alt text](images/image-10.png)
+| Name              | ID         |
+|------------------|-----------|
+| Soham Gaonkar   | 23110314   |
+| Chaitanya Sharma | 23110116   |
 
-![alt text](images/image.png)
+---
+
+## Section 1: Weights & Biases
 
 
-![alt text](images/image-4.png)
+**1. Training hyperparameters:**  
+<img src="images/image-8.png" width="60%">
 
-![alt text](images/image-5.png)
+**2. Model architecture:**  
+<img src="images/image-9.png" width="60%">
 
-![alt text](images/image-6.png)
+**3. Training and testing metrics:**  
+<img src='images/image.png' width="60%">
 
-![alt text](images/image-7.png)
+**4. Training and validation loss table:**  
+<img src="images/image-7.png" width="60%">
+
+**5. Confusion matrix:**  
+<img src="images/image-4.png" width="60%">
+
+**6. Evaluation metrics:**  
+<img src="images/image-5.png" width="60%">
+
+**7. Graphs of training and validation loss:**  
+<img src="images/image-6.png" width="60%">
+
+</div>
+
+---
