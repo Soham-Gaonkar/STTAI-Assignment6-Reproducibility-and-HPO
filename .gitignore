@@ -3,6 +3,7 @@
 models/
 wandb/
 data/
+AutogluonModels/
 
 # ignore all png files and pth files
 *.pth
